@@ -1,0 +1,36 @@
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    height: 300px;
+    width: 400px;
+    border: 2px black;
+    background-color: rgb(9, 81, 9);
+    padding: 25px;
+}
+
+.text{
+    background-color: white;
+    padding: 20px;
+    
+}
+.todo{
+    background-color: white;
+}
+
+.text button{
+    color: white;
+    border-radius: 10px;
+}
+.button button{
+    margin-left: 10px;
+    height: 20px;
+    border: 1px;
+    border-radius: 10px;
+
+}
+.white box{
+    border-radius: 20px;
+}
